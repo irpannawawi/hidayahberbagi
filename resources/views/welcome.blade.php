@@ -13,18 +13,18 @@
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/magnific-popup.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/themify-icons.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/nice-select.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/flaticon.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/gijgo.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/animate.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/slicknav.css">
-    <link rel="stylesheet" href="{{ url('charifit-master') }}/css/style.css">
-    <!-- <link rel="stylesheet" href="{{ url('charifit-master') }}/css/responsive.css"> -->
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/magnific-popup.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/themify-icons.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/nice-select.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/flaticon.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/gijgo.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/animate.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/slicknav.css">
+    <link rel="stylesheet" href="{{ url('blog-theme') }}/css/style.css">
+    <!-- <link rel="stylesheet" href="{{ url('blog-theme') }}/css/responsive.css"> -->
 </head>
 
 <body>
@@ -72,7 +72,7 @@
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo">
                                 <a href="index.html">
-                                    <img src="{{ url('charifit-master') }}/img/logo.png" alt="">
+                                    <img src="{{ url('blog-theme') }}/img/logo.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="{{ url('charifit-master') }}/img/help/1.png" alt="">
+                                <img src="{{ url('blog-theme') }}/img/help/1.png" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -167,7 +167,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="{{ url('charifit-master') }}/img/help/2.png" alt="">
+                                <img src="{{ url('blog-theme') }}/img/help/2.png" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -183,7 +183,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="{{ url('charifit-master') }}/img/help/3.png" alt="">
+                                <img src="{{ url('blog-theme') }}/img/help/3.png" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -246,7 +246,7 @@
                     <div class="causes_active owl-carousel">
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="{{ url('charifit-master') }}/img/causes/1.png" alt="">
+                                <img src="{{ url('blog-theme') }}/img/causes/1.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -271,7 +271,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="{{ url('charifit-master') }}/img/causes/2.png" alt="">
+                                <img src="{{ url('blog-theme') }}/img/causes/2.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -296,7 +296,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="{{ url('charifit-master') }}/img/causes/3.png" alt="">
+                                <img src="{{ url('blog-theme') }}/img/causes/3.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -321,7 +321,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="{{ url('charifit-master') }}/img/causes/1.png" alt="">
+                                <img src="{{ url('blog-theme') }}/img/causes/1.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -420,7 +420,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_volenteer">
                         <div class="volenteer_thumb">
-                            <img src="{{ url('charifit-master') }}/img/volenteer/1.png" alt="">
+                            <img src="{{ url('blog-theme') }}/img/volenteer/1.png" alt="">
                         </div>
                         <div class="voolenteer_info d-flex align-items-end">
                             <div class="social_links">
@@ -449,7 +449,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_volenteer">
                         <div class="volenteer_thumb">
-                            <img src="{{ url('charifit-master') }}/img/volenteer/2.png" alt="">
+                            <img src="{{ url('blog-theme') }}/img/volenteer/2.png" alt="">
                         </div>
                         <div class="voolenteer_info d-flex align-items-end">
                             <div class="social_links">
@@ -478,7 +478,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_volenteer">
                         <div class="volenteer_thumb">
-                            <img src="{{ url('charifit-master') }}/img/volenteer/3.png" alt="">
+                            <img src="{{ url('blog-theme') }}/img/volenteer/3.png" alt="">
                         </div>
                         <div class="voolenteer_info d-flex align-items-end">
                             <div class="social_links">
@@ -524,7 +524,7 @@
                     <div class="news_active owl-carousel">
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="{{ url('charifit-master') }}/img/news/1.png" alt="">
+                                <img src="{{ url('blog-theme') }}/img/news/1.png" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
@@ -541,7 +541,7 @@
                         </div>
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="{{ url('charifit-master') }}/img/news/2.png" alt="">
+                                <img src="{{ url('blog-theme') }}/img/news/2.png" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
@@ -633,7 +633,7 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="{{ url('charifit-master') }}/img/footer_logo.png" alt="">
+                                    <img src="{{ url('blog-theme') }}/img/footer_logo.png" alt="">
                                 </a>
                             </div>
                             <p class="address_text">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut labore.
@@ -703,7 +703,7 @@
                                 <li>
                                     <div class="thumb">
                                         <a href="#">
-                                            <img src="{{ url('charifit-master') }}/img/news/news_1.png" alt="">
+                                            <img src="{{ url('blog-theme') }}/img/news/news_1.png" alt="">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -717,7 +717,7 @@
                                 <li>
                                     <div class="thumb">
                                         <a href="#">
-                                            <img src="{{ url('charifit-master') }}/img/news/news_2.png" alt="">
+                                            <img src="{{ url('blog-theme') }}/img/news/news_2.png" alt="">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -754,32 +754,32 @@
     <!-- link that opens popup -->
 
     <!-- JS here -->
-    <script src="{{ url('charifit-master') }}/js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/popper.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/bootstrap.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/owl.carousel.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/isotope.pkgd.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/ajax-form.js"></script>
-    <script src="{{ url('charifit-master') }}/js/waypoints.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/jquery.counterup.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/imagesloaded.pkgd.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/scrollIt.js"></script>
-    <script src="{{ url('charifit-master') }}/js/jquery.scrollUp.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/wow.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/nice-select.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/jquery.slicknav.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/jquery.magnific-popup.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/plugins.js"></script>
-    <script src="{{ url('charifit-master') }}/js/gijgo.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/popper.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/bootstrap.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/owl.carousel.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/isotope.pkgd.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/ajax-form.js"></script>
+    <script src="{{ url('blog-theme') }}/js/waypoints.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/jquery.counterup.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/imagesloaded.pkgd.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/scrollIt.js"></script>
+    <script src="{{ url('blog-theme') }}/js/jquery.scrollUp.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/wow.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/nice-select.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/jquery.slicknav.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/jquery.magnific-popup.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/plugins.js"></script>
+    <script src="{{ url('blog-theme') }}/js/gijgo.min.js"></script>
     <!--contact js-->
-    <script src="{{ url('charifit-master') }}/js/contact.js"></script>
-    <script src="{{ url('charifit-master') }}/js/jquery.ajaxchimp.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/jquery.form.js"></script>
-    <script src="{{ url('charifit-master') }}/js/jquery.validate.min.js"></script>
-    <script src="{{ url('charifit-master') }}/js/mail-script.js"></script>
+    <script src="{{ url('blog-theme') }}/js/contact.js"></script>
+    <script src="{{ url('blog-theme') }}/js/jquery.ajaxchimp.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/jquery.form.js"></script>
+    <script src="{{ url('blog-theme') }}/js/jquery.validate.min.js"></script>
+    <script src="{{ url('blog-theme') }}/js/mail-script.js"></script>
 
-    <script src="{{ url('charifit-master') }}/js/main.js"></script>
+    <script src="{{ url('blog-theme') }}/js/main.js"></script>
 </body>
 
 </html>
