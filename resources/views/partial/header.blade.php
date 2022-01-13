@@ -1,4 +1,4 @@
-<div class="header-top navbar" style="background-color: orange;">
+<div class="header-top navbar" style="background-color: #CE8602;">
     <div class="row col-12">
         <div class="col-md-6 col-sm-12">
             <ul class="nav justify-content-center">
@@ -12,10 +12,10 @@
         <div class="col-md-6 col-sm-12">
             <ul class="nav justify-content-center">
               <li class="nav-item">
-                <a class="nav-link text-white" href="#"><i class="icon-phone"></i> 089662652301</a>
+                <a class="nav-link text-white" href="https://wa.me/6289662652301"><i class="fab fa-whatsapp"></i> 089662652301</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-white" href="#"><i class="icon-instagram2"></i> @hidayahberbagi</a>
+                <a class="nav-link text-white" href="#"><i class="fab fa-instagram"></i> @hidayahberbagi</a>
             </li>
         </ul>
     </div>

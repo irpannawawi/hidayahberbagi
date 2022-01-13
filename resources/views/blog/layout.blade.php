@@ -41,16 +41,17 @@
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" href="{{ url('hidayah-berbagi-assets') }}/icon/favicon.ico">
 
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
 
 	<!-- Bootstrap  -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
 	<script src="https://kit.fontawesome.com/323b2ad32c.js" crossorigin="anonymous"></script>
 	<!-- <link rel="stylesheet" href="{{ url('charity') }}/css/bootstrap.css"> -->
-
-
-	<link rel="stylesheet" href="{{ url('charity') }}/css/style.css">
+	<link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
 
 	<!-- FOR IE9 below -->
@@ -73,24 +74,9 @@
 	<!-- jQuery -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
-	<script src="{{ url('charity') }}/js/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="{{ url('charity') }}/js/jquery.easing.1.3.js"></script>
-	<!-- Bootstrap -->
-	<script src="{{ url('charity') }}/js/bootstrap.min.js"></script>
-	<!-- Waypoints -->
-	<script src="{{ url('charity') }}/js/jquery.waypoints.min.js"></script>
-	<script src="{{ url('charity') }}/js/sticky.js"></script>
-
-	<!-- Stellar -->
-	<script src="{{ url('charity') }}/js/jquery.stellar.min.js"></script>
-	<!-- Superfish -->
-	<script src="{{ url('charity') }}/js/hoverIntent.js"></script>
-	<script src="{{ url('charity') }}/js/superfish.js"></script>
+<script type="text/javascript">
 	
-	<!-- Main JS -->
-	<script src="{{ url('charity') }}/js/main.js"></script>
-
+</script>
 	</body>
 </html>
 

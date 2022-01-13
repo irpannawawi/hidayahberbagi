@@ -1,0 +1,17 @@
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  line-height: 1.6;
+  font-size: 16px;
+  background: #fff;
+  color: #4F4F4F;
+  font-weight: 300;
+  overflow-x: hidden;
+}
+
+#banner-home{
+  background-image: url('../../hidayah-berbagi-assets/foto.jpg');
+  min-height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
