@@ -9,8 +9,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Hidayah Berbagi</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
+	<meta name="description" content="Official Website for Hidayah Berbagi" />
+	<meta name="keywords" content="Hidayah, berbagi, hidayahberbagi, donasi, rajadesa, jatinagara, ciamis, bantuan" />
 	<meta name="author" content="FREEHTML5.CO" />
 
   <!-- 
@@ -27,20 +27,27 @@
 	//////////////////////////////////////////////////////
 	 -->
 
-  	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
+
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" href="{{ url('hidayah-berbagi-assets') }}/icon/favicon.ico">
-
+	<link rel="apple-touch-icon" sizes="57x57" href="{{ url('hidayah-berbagi-assets') }}/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ url('hidayah-berbagi-assets') }}/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ url('hidayah-berbagi-assets') }}/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ url('hidayah-berbagi-assets') }}/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ url('hidayah-berbagi-assets') }}/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ url('hidayah-berbagi-assets') }}/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ url('hidayah-berbagi-assets') }}/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ url('hidayah-berbagi-assets') }}/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ url('hidayah-berbagi-assets') }}/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ url('hidayah-berbagi-assets') }}/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ url('hidayah-berbagi-assets') }}/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ url('hidayah-berbagi-assets') }}/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ url('hidayah-berbagi-assets') }}/icon/favicon-16x16.png">
+<link rel="manifest" href="{{ url('hidayah-berbagi-assets') }}/icon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">

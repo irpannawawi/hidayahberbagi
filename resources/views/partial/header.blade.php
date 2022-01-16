@@ -39,7 +39,7 @@
           <a class="nav-link" href="#">Post</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="#">Galeri</a>
+          <a class="nav-link " href="{{ url('galeri') }}">Galeri</a>
         </li>
         <li class="nav-item">
           <a class="nav-link " href="#">Donasi</a>
